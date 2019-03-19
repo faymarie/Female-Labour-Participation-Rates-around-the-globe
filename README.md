@@ -17,7 +17,7 @@ For a local installation, make sure you have
 
     $ pip install notebook
 
-## Usage - Running Jupyter noteboo
+## Usage - Running Jupyter notebook
 ### Running in a local installation
 
 Launch with:
